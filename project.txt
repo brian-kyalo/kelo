@@ -1,0 +1,21 @@
+Name: Harvestr
+      --------
+Description
+-----------
+Harvestr is your one-stop mobile application designed to empower farmers and boost their productivity. It's like having a dedicated farm assistant in your pocket, helping you manage every aspect of your operations, from planting to profit.
+
+Record Keeping Made Easy:
+
+Say goodbye to scattered notes and spreadsheets. Harvestr provides a central hub for all your farm records. Create detailed profiles for your fields, including crop types, planting dates, and harvest projections. Track your inventory of tools, equipment, and supplies, ensuring everything is accounted for and readily available when needed.
+
+Boost Productivity with Smart Tools:
+
+Plan your planting season with ease. Harvestr helps you schedule tasks, assign them to your team (if applicable), and track progress.  The app can also integrate with weather forecasts, allowing you to make informed decisions about irrigation and pest control.
+
+Gain Valuable Insights:
+
+Harvestr doesn't just store data; it helps you analyze it.  Track your yields over time, identify your most profitable crops, and analyze sales trends.  At the end of the year, Harvestr generates a comprehensive report summarizing your performance. This report provides valuable insights into areas where you excelled and areas for improvement.
+
+Plan for the Future:
+
+Armed with data and insights, Harvestr empowers you to make informed decisions for the next season.  Identify areas for improvement, such as trying new crop varieties or optimizing planting schedules. Harvestr  becomes your partner in continuous improvement, helping you reach new heights of productivity and profitability.
